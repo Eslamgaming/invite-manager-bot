@@ -38,7 +38,7 @@
 		"hostname": "localhost",
 		"username": "guest",
 		"password": "guest",
-		"prefix": ""
+		"prefix": "! "
 	},
 	"socketio": {
 		"url": "http://localhost:2000",
@@ -67,7 +67,7 @@
 		}
 	],
 	"controller": {
-		"botToken": "Bot controller token, not your main bot token pls",
+		"botToken": "ODIzNjQwOTcxMTczNTYwMzQw.YFjxbg.jCb1ToPodeg6V4MJxwk1BLlhm4U",
 		"shardCount": 2,
 		"owners": ["417977361011572747", "302901933419790347", "your id in this array"],
 		"incidentChannel": "id of a log channel",
